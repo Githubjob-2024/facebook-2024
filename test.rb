@@ -1,2 +1,2 @@
-Hi bro
+Hi
 thus is ruby file
